@@ -1,4 +1,4 @@
-# DailyTarget
+# DailyTarget- SQL Codes 
 let's break down the SQL code step by step to understand what it does:
 
     Common Table Expressions (CTEs):
